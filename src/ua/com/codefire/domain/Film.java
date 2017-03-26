@@ -1,4 +1,4 @@
-package ua.com.codefire;
+package ua.com.codefire.domain;
 
 import java.time.LocalDate;
 

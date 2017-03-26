@@ -1,9 +1,10 @@
-package ua.com.codefire;
+package ua.com.codefire.util;
 
 import org.json.simple.DeserializationException;
 import org.json.simple.JsonArray;
 import org.json.simple.JsonObject;
 import org.json.simple.Jsoner;
+import ua.com.codefire.domain.Film;
 
 import java.io.IOException;
 import java.net.URL;

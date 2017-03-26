@@ -1,5 +1,8 @@
 package ua.com.codefire;
 
+import ua.com.codefire.domain.Film;
+import ua.com.codefire.util.MovieDBLoader;
+
 import java.util.ArrayList;
 
 public class Main {
